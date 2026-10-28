@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="YOUR-GIF-FILENAME.gif" alt="Animated representation" width="600" />
+  <img src="ascii-rest-kyoto-dusk.gif" alt="Animated representation" width="600" />
   
   <br/>
   
